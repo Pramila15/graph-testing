@@ -9,3 +9,6 @@ type the following query:
 {
   test
 }
+
+# notrealdb
+https://www.npmjs.com/package/notarealdb
